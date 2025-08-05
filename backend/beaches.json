@@ -1,0 +1,143 @@
+[
+    {
+        "PutRequest": {
+            "Item": {
+                "beach_name": {"S": "States Avenue"},
+                "data_type": {"S": "metadata"},
+                "beach_angle": {"N": "150.36"},
+                "lat": {"N": "39.35885924817429"},
+                "long": {"N": "-74.41751516265103"},
+                "state": {"S": "NJ"},
+                "station_id": {"N": "8534720"},
+                "town": {"S": "Atlantic City"}
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "beach_name": {"S": "Manasquan Inlet"},
+                "data_type": {"S": "metadata"},
+                "beach_angle": {"N": "184.82"},
+                "lat": {"N": "40.10372058334449"},
+                "long": {"N": "-74.03364265478329"},
+                "state": {"S": "NJ"},
+                "station_id": {"N": "8531680"},
+                "town": {"S": "Manasquan"}
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "beach_name": {"S": "Bridge Ave"},
+                "data_type": {"S": "metadata"},
+                "beach_angle": {"N": "189.01"},
+                "lat": {"N": "40.06986782723999"},
+                "long": {"N": "-74.04139848831376"},
+                "state": {"S": "NJ"},
+                "station_id": {"N": "8531680"},
+                "town": {"S": "Bayhead"}
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "beach_name": {"S": "Brighton Avenue"},
+                "data_type": {"S": "metadata"},
+                "beach_angle": {"N": "186.40"},
+                "lat": {"N": "39.924059598160966"},
+                "long": {"N": "-74.07273864128683"},
+                "state": {"S": "NJ"},
+                "station_id": {"N": "8534720"},
+                "town": {"S": "Seaside Park"}
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "beach_name": {"S": "95th Street"},
+                "data_type": {"S": "metadata"},
+                "beach_angle": {"N": "208.94"},
+                "lat": {"N": "39.05248372841561"},
+                "long": {"N": "-74.7532245974689"},
+                "state": {"S": "NJ"},
+                "station_id": {"N": "8534720"},
+                "town": {"S": "Stone Harbor"}
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "beach_name": {"S": "Nuns Beach"},
+                "data_type": {"S": "metadata"},
+                "beach_angle": {"N": "199.50"},
+                "lat": {"N": "39.70179638082776"},
+                "long": {"N": "-74.13386667070482"},
+                "state": {"S": "NJ"},
+                "station_id": {"N": "8534720"},
+                "town": {"S": "Harvey Cedars"}
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "beach_name": {"S": "Broadway Beach"},
+                "data_type": {"S": "metadata"},
+                "beach_angle": {"N": "267.11"},
+                "lat": {"N": "38.92899306855554"},
+                "long": {"N": "-74.93123037392164"},
+                "state": {"S": "NJ"},
+                "station_id": {"N": "8534720"},
+                "town": {"S": "Cape May"}
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "beach_name": {"S": "Remsen Avenue"},
+                "data_type": {"S": "metadata"},
+                "beach_angle": {"N": "192.9"},
+                "lat": {"N": "40.16463291237289"},
+                "long": {"N": "-74.01676866114504"},
+                "state": {"S": "NJ"},
+                "station_id": {"N": "8531680"},
+                "town": {"S": "Spring Lake"}
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "beach_name": {"S": "Euclid Ave"},
+                "data_type": {"S": "metadata"},
+                "beach_angle": {"N": "194.61"},
+                "lat": {"N": "40.231877207249276"},
+                "long": {"N": "-73.99590451632825"},
+                "state": {"S": "NJ"},
+                "station_id": {"N": "8531680"},
+                "town": {"S": "Loch Arbour"}
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "beach_name": {"S": "The Boneyard"},
+                "data_type": {"S": "metadata"},
+                "beach_angle": {"N": "200.11"},
+                "lat": {"N": "40.18596989918719"},
+                "long": {"N": "-74.00804276600165"},
+                "state": {"S": "NJ"},
+                "station_id": {"N": "8531680"},
+                "town": {"S": "Belmar"}
+            }
+        }
+    }
+
+]
